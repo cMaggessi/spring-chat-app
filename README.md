@@ -16,9 +16,9 @@ One to one chat application, utilizing DDD principles, Spring Boot and WebSocket
 
 <h2>How it works</h2>
 <h3>One to one communication:</h3>
-![one_to_one_comm.png](one_to_one_comm.png)
+![one_to_one_comm.png]([one_to_one_comm.png](https://github.com/cMaggessi/spring-chat-app/blob/master/one_to_one_comm.png))
 <h3>Websocket:</h3>
-![websocket_chat_flow.png](websocket_chat_flow.png)
+![websocket_chat_flow.png](https://github.com/cMaggessi/spring-chat-app/blob/master/websocket_chat_flow.png)
 
 
 <hr>
