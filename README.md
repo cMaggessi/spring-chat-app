@@ -10,13 +10,17 @@ One to one chat application, utilizing DDD principles, Spring Boot and WebSocket
   <li>Persistent chat</li>
 </ul>
 
-
+<hr>
 
 
 <h2>How it works</h2>
-<h3>Simple flow charts:</h3>
+<h3>One to one communication</h3>
+![one_to_one_comm.png](one_to_one_comm.png)
+<h3>Websocket logic:</h3>
+![websocket_chat_flow.png](websocket_chat_flow.png)
 
 
+<hr>
 <h2>Installation</h2>
 
 
@@ -32,12 +36,12 @@ cd your-project
 
 # Run the application, make changes and have fun!
 ```
-
+<hr>
 <h2>Technologies</h2>
 This project is mainly implement using the following technologies
 
 <ul>
 <li>Websocket</li>
-<li>Spring Boot 3.x.x</li>
+<li>Spring Boot 3.2.4</li>
 <li>MongoDB</li>
 </ul>
