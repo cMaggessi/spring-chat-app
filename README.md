@@ -8,14 +8,16 @@
 <h2>Installation</h2>
 
 
-`# Clone the repository
+```
+# Clone the repository
 https://github.com/cMaggessi/spring-chat-app.git
 
 # Change into the project directory
 cd your-project
 
 # Build the project
-./mvnw clean install`
+./mvnw clean install
+```
 
 <h2>Technologies</h2>
 This project is mainly implement using the following technologies
