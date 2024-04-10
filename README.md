@@ -23,6 +23,8 @@ cd your-project
 
 # Build the project
 ./mvnw clean install
+
+# Run the application, make changes and have fun!
 ```
 
 <h2>Technologies</h2>
