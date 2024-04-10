@@ -1,4 +1,5 @@
 <h1>Simple Spring ChatApp</h1>
+<p>Oh, ChatApp! 😅</p>
 <h3>Author: Caio Maggessi</h3>
 <h4>Find me on: <a href="https://www.linkedin.com/in/caio-maggessi-912763189/">LinkedIn</a></h4>
 One to one chat application, utilizing DDD principles, Spring Boot and WebSockets.
@@ -14,9 +15,9 @@ One to one chat application, utilizing DDD principles, Spring Boot and WebSocket
 
 
 <h2>How it works</h2>
-<h3>One to one communication</h3>
+<h3>One to one communication:</h3>
 ![one_to_one_comm.png](one_to_one_comm.png)
-<h3>Websocket logic:</h3>
+<h3>Websocket:</h3>
 ![websocket_chat_flow.png](websocket_chat_flow.png)
 
 
@@ -25,6 +26,9 @@ One to one chat application, utilizing DDD principles, Spring Boot and WebSocket
 
 
 ```
+#FIRST THINGS FIRST YOU'LL NEED TO CREATE A DOCKER CONTAINER PROVIDED IN THIS REPOSITORY!!
+docker-compose up -d 
+
 # Clone the repository
 https://github.com/cMaggessi/spring-chat-app.git
 
