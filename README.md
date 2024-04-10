@@ -26,6 +26,9 @@ One to one chat application, utilizing DDD principles, Spring Boot and WebSocket
 
 
 ```
+#FIRST THINGS FIRST YOU'LL NEED TO CREATE A DOCKER CONTAINER PROVIDED IN THIS REPOSITORY!!
+docker-compose up -d 
+
 # Clone the repository
 https://github.com/cMaggessi/spring-chat-app.git
 
