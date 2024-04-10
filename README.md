@@ -1,4 +1,4 @@
-<h1>Spring ChatApp</h1>
+<h1>Simple Spring ChatApp</h1>
 <h3>Author: Caio Maggessi</h3>
 <h4>Find me on: <a href="https://www.linkedin.com/in/caio-maggessi-912763189/">LinkedIn</a></h4>
 One to one chat application, utilizing DDD principles, Spring Boot and WebSockets.
