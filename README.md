@@ -11,6 +11,12 @@ One to one chat application, utilizing DDD principles, Spring Boot and WebSocket
 </ul>
 
 
+
+
+<h2>How it works</h2>
+<h3>Simple flow charts:</h3>
+
+
 <h2>Installation</h2>
 
 
